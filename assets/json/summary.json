@@ -1,0 +1,15 @@
+{
+  "monthly_income": "80000",
+  "monthly_expenses": "52000",
+  "savings": "28000",
+  "categories": [
+    { "category": "Housing",     "total": "20000" },
+    { "category": "Food",        "total": "12000" },
+    { "category": "Transport",   "total": "6000"  },
+    { "category": "Utilities",   "total": "4500"  },
+    { "category": "Healthcare",  "total": "3500"  },
+    { "category": "Shopping",    "total": "3000"  },
+    { "category": "Education",   "total": "2000"  },
+    { "category": "Other",       "total": "1000"  }
+  ]
+}

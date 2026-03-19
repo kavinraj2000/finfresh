@@ -1,0 +1,25 @@
+{
+  "data": [
+    { "id": "txn_001", "date": "2024-11-01", "type": "expense", "category": "Housing",    "amount": "20000", "description": "Monthly rent" },
+    { "id": "txn_002", "date": "2024-11-02", "type": "income",  "category": "Salary",     "amount": "80000", "description": "November salary" },
+    { "id": "txn_003", "date": "2024-11-03", "type": "expense", "category": "Food",       "amount": "850",   "description": "Grocery store" },
+    { "id": "txn_004", "date": "2024-11-04", "type": "expense", "category": "Transport",  "amount": "450",   "description": "Metro monthly pass" },
+    { "id": "txn_005", "date": "2024-11-05", "type": "expense", "category": "Food",       "amount": "620",   "description": "Restaurant dinner" },
+    { "id": "txn_006", "date": "2024-11-06", "type": "expense", "category": "Utilities",  "amount": "1200",  "description": "Electricity bill" },
+    { "id": "txn_007", "date": "2024-11-07", "type": "expense", "category": "Shopping",   "amount": "3000",  "description": "Online shopping" },
+    { "id": "txn_008", "date": "2024-11-08", "type": "expense", "category": "Food",       "amount": "480",   "description": "Swiggy order" },
+    { "id": "txn_009", "date": "2024-11-09", "type": "expense", "category": "Healthcare", "amount": "800",   "description": "Pharmacy" },
+    { "id": "txn_010", "date": "2024-11-10", "type": "expense", "category": "Utilities",  "amount": "900",   "description": "Internet bill" },
+    { "id": "txn_011", "date": "2024-11-11", "type": "expense", "category": "Food",       "amount": "390",   "description": "Coffee shop" },
+    { "id": "txn_012", "date": "2024-11-12", "type": "expense", "category": "Transport",  "amount": "280",   "description": "Cab rides" },
+    { "id": "txn_013", "date": "2024-11-13", "type": "expense", "category": "Education",  "amount": "2000",  "description": "Online course" },
+    { "id": "txn_014", "date": "2024-11-14", "type": "expense", "category": "Healthcare", "amount": "1500",  "description": "Doctor consultation" },
+    { "id": "txn_015", "date": "2024-11-15", "type": "expense", "category": "Food",       "amount": "750",   "description": "Grocery store" },
+    { "id": "txn_016", "date": "2024-11-18", "type": "expense", "category": "Utilities",  "amount": "2400",  "description": "Gas bill" },
+    { "id": "txn_017", "date": "2024-11-20", "type": "expense", "category": "Transport",  "amount": "1800",  "description": "Petrol" },
+    { "id": "txn_018", "date": "2024-11-22", "type": "expense", "category": "Food",       "amount": "910",   "description": "Weekend brunch" },
+    { "id": "txn_019", "date": "2024-11-25", "type": "expense", "category": "Healthcare", "amount": "1200",  "description": "Health insurance premium" },
+    { "id": "txn_020", "date": "2024-11-28", "type": "expense", "category": "Other",      "amount": "1000",  "description": "Miscellaneous" }
+  ]
+
+}
